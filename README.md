@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages]( https://damir-ilyasov.github.io/project/)
+- [Публичная страница на GitHub Pages](https://damir-ilyasov.github.io/project/)
